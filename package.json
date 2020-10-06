@@ -1,5 +1,5 @@
 {
-  "name": "vue-eslint-parser",
+  "name": "@octref/vue-eslint-parser",
   "version": "7.1.0",
   "description": "The ESLint custom parser for `.vue` files.",
   "engines": {
@@ -83,5 +83,9 @@
     "url": "https://github.com/mysticatea/vue-eslint-parser/issues"
   },
   "homepage": "https://github.com/mysticatea/vue-eslint-parser#readme",
-  "funding": "https://github.com/sponsors/mysticatea"
+  "funding": "https://github.com/sponsors/mysticatea",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  }
 }
